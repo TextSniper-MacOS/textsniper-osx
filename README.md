@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://gemok-romotoy.github.io/.github/textsniper-mac">  
+<a href="https://textsniper-macos.github.io/.github/textsniper-mac">  
 <img src="https://img.shields.io/badge/🔎_Get_TextSniper_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Get TextSniper for Mac">  
 </a>  
 </div>  
